@@ -1,0 +1,459 @@
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "5e228eaf9a19fcfb5921199b15938e546135da2f"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SLATEC.download]]
+    sha256 = "3d8891811837457e12b32c7dd1da6989fe597ac5a43bf76146fa9b8b487af874"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "770f9422c7d82eb128eabd0bff879a384c2a64b1"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "41cb9b543bea924b838069c63d578428c729abac3ab5470dd37fdc2a309f3778"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "0c3a0f79c825ce692ced63ae342a1825e9ec8cfe"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "bf93f0aaa8ddf8b8030fac00082a3c630134e046a3c445a21b1629be96166018"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "d16e1110a7ad17e2a9a88172cd46c3c0b6162cec"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "f7e99b9fed60c1ffe86d96b7c2f8eda660b76dd6e145fd3e85bef30da70f2e63"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "82c577e620c82fcea926973b1a77aa89be6099d6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "74c98c4324372755fc5d7642a49ca0184ed85551ccf7d8e76ce1570bfd6eeb84"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "ad46cdc2e33128c4b360ee83e4fd4e41d9c100b9"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "94601d5330830b3f9b9055627f14475d64418c7d20ed4d1e5da69d1d5c92b653"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "aarch64"
+git-tree-sha1 = "c51305ff6220fd50b8b0e8c7b03e3b21dc42c477"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "8df58913f9dc8650e1c08ca9bdbf30386a5e3fe42cfd3eb506fc2339d7ef66fd"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "82a73bf4fb66af06b9c59f60c0132285ac4deb54"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "8a8d37a29399e0fec13a252a06e02dc9d2b579893ba6cca12ae0a79503c1b63b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-gnueabihf-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c5386b73e2ec488ace0aa9e02fb8d7854f95bcaf"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "781675cf786ebdbaac65cacdad9e1cb1e870d6a714bc69237379e3f585e61299"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-gnueabihf-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f5a58eb6879faccd730b3fb1964863ce424e349d"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "f0cd9813e4d7469498cdb8d28fc0b3a6e4e0fc45435f8bcdd1df5f60e51472ab"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-gnueabihf-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "f52c984e895dae80dd6ebec703619bbaf292e0f3"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "ff2b135f5844571a714e96ed2b5e9ac6a6facdf9f66909653704d5138935cc69"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-musleabihf-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "7cf96933e327403e2867a9f3874f5b951095fa00"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "d9ebeff19d376c9fdad6019f297009002e94a52d14d922e3f911e4bfec4bb69c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-musleabihf-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "ff8dac398f76eb9678cca0de92e9b973f22daa9f"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "d7a87fb9f7a46445da95233eb032059618385ed4eaaeff03837399a2852c7f81"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv6l-linux-musleabihf-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "8a6f7167a2b315c48d84e5fff4b09473768cbbf5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "58800cfed2f987785028e525d34c3d25704dd60672e9bb396ee9468ed742f3a8"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "a8899566b92a2d933e5a5fa55a1fcde1a55d0818"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "a10774867b186bd6f0fc775c7f9c726be5c63e519af610ca700b18c4d2c21407"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "c41745792f5e0a73fa553d9765571c5d7136b0f7"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "53aa8de67c2a2adafc483cced1b7ef5626b2abac8146b1b424fa0eb99eb01925"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "00bc00bcf53fc2981cf2385be6c89240f0dc1522"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "a078ae0433884355511dbc9b79b888650347beeeb1d916480b81f819bbde1794"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "1f8a734aebe149867a42edc6d34eac535dffe132"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "68e62d5871e5b596e7cbb254dd6b3f927753a93d2a5217c70defb3974559171d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "6721ec936d935e858d98a95b8465e0259f8d3aa6"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "8c4a1782af899c5b43ca5fc72a91059fe9258bf2a62f63db8ece0d4fbf04530c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "9352e74fab516fde3eb198310ba4e524962ef706"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "8a0dcc0a155b08a39bd45024ac7cc7f0fc75a4cef639939b9504df01981f174d"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "4c16c98f7ba87df5b0ac45ce556fff23ddd30611"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "74a40f8757d03bd4dfb3043a3f676a7cc67044d153c78f6b82b4eb8aa9a2a2f7"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "15dbdb90ed09e81977f4081ffadc7fe15edcc81a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "397e6289054692dfe3e2b705cd2b70a1f58fc906a0ab044ef1ccd687f98f6c91"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "b74dd7dce8d7f8dc58d174b83bc847c1f03e726c"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "8f7c4299f53893789360cf1c12e537a020aaf4f228ea23804d924a6eaac550ed"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "e5af6e4414a33202563e2661ff7738de66eefb0e"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "54d63f39db1a8d6f9600c06f26e05f2563573edd1efd0892e1943e961c5c6175"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "288e4615ade0504fd010d5e15b181ee94f216481"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "5779c600dc7ca87623c2938b5f3f11e9d6c0750f3a6d1abc3ead6c1faee77b1b"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "f21c219f0f8f7580a5fc4e33cf7d48abe69b5c91"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "92003d36208d6a42c95bf70215317bd875a234206b7c4879116b7e8bca2c9d79"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "831ba10736d159a0da9d860e9de48255244c11af"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "e006a6bbf9d5efc4e97d04c459828299c2bb9d08ad463288d870ec01ac6d9058"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "i686"
+git-tree-sha1 = "9dfeb9eaed8886dd918b843c8e9cfaab6b81af81"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "a27bdeb131589b9cbd7abb53f19324466c10abe4ed88ac60a4edc4ec1b74d031"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "powerpc64le"
+git-tree-sha1 = "13df718d51570daeb958507354253ec57641fd9f"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "5c49dea184058ce3d410f7a468a93c037d755ca456ae52c24ea69c880e4597c8"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "powerpc64le"
+git-tree-sha1 = "894c2f676bd9ab821090167393be910f3c813f17"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "e33c1a4fb6529a6dba2c25779296b577ee284dd5a153f1d23f909afb21d9fec3"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "powerpc64le"
+git-tree-sha1 = "74e3a7966e13bbdee26472b9b380ab3cda995940"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "10efe4e23f16a84cfae648734ac53a7d5482aec60334878894f4fd7b44ad0a3a"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "34ecfeb59dbbc59baaefe5a626bf4f14aa562d0b"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[SLATEC.download]]
+    sha256 = "7c9a4acbd2e3a1c51d34ad892cbc4e5fd45d4974ac77e813fc77147504a0010e"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-apple-darwin-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "f0d522935de57a8cb696e5c8c2f23411cd7bad90"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[SLATEC.download]]
+    sha256 = "ef10412f6882e5556bea9b727b2db0f6dbb3996431e4730426460dbba30e55a7"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "5dcd06a2793d45788b54c78865c335ed341597c1"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SLATEC.download]]
+    sha256 = "0f82000bccebfd7a381b9b824df5fd4837cba1c71a00d6ced31cee4820721370"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "6ea323a240936881a00d1c28b5566929e1774b46"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "daeb44a5b0fa0da4e326efaaa3ac8f3af3aca3e0585d9ae74572ba72a61a9659"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "6ef336a988dd9540c79b593eb4500cff25f922a2"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "951ac0451951726700c6ddea99c763e55a209623620defb5a6913231f0e2cc06"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "e9fa9aa52db044f805c230e4ea4ee195d4f8dfec"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "72f4f693bae70833dc15a50a861370341658606df1804ac6f28a9130a9c379a6"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "890bc097af0715b7df8310782ea441c4d6f9f196"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "6b98567001413f466eecd3aedf2e9ec1c3fda33dace7909d5921455f17612398"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "f261050b898012ac5f13dc80f5dafbefe4675cca"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "39f8f770f10cfd675f5e1ed0127129a0b8da55ea69b1ef311c05d91c0e8a967c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "65ea7f23ac6dcd55d932d6ec8c5cc8dd46ae6152"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SLATEC.download]]
+    sha256 = "85f60a2acdf39bee3a8860d6e58696d6ee1476e740e3949cb83d55e1f48bdce0"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "e77bc477684c86a27090d29e3906a571e1c8516b"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[SLATEC.download]]
+    sha256 = "cd34d16505ec2029ddfef2987743827f7bd612e7f02bd8ff896aae6e147bae09"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-unknown-freebsd-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "663a033a1a620bbed18689e02df1794aafe366fe"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[SLATEC.download]]
+    sha256 = "2228f8fc58b6a96001236eb0ee3ca7ea06ab5dfda935b2dc105be759f78f3043"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-unknown-freebsd-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "7e420162f84cbc043aaefdcb4ac15d2fb76a7576"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[SLATEC.download]]
+    sha256 = "8a82586d60fe0fecab91cb27dfcdbd3210a2ab02c3f78a7d6dbe74dada458da1"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-unknown-freebsd-libgfortran5.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "f17304f31479561dd5c898274c73f1d0a2c7a805"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "747bb34d67696576179adb88afddef59e2524f2f3c59fc9eaa37d24dd5bfb81c"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "fcff8205912f5cbd1f09f8f14e8f12fb11c22775"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "fc31cefe97af1ef2355a5dc4d26c8247284617f377ff2bf759def8fc74f41e90"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[SLATEC]]
+arch = "x86_64"
+git-tree-sha1 = "836f49f7be80c8ce1401dd5bf9c238013335ed70"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SLATEC.download]]
+    sha256 = "c9d21e31e90b082039a1d45008101df6ac8f3ce9788204984ada163a3da01770"
+    url = "https://github.com/JuliaBinaryWrappers/SLATEC_jll.jl/releases/download/SLATEC-v4.1.0+0/SLATEC.v4.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
